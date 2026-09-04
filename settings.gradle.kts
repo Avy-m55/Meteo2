@@ -12,4 +12,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MeteoApp"
+rootProject.name = "Meteo2"
